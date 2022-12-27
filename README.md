@@ -1,2 +1,0 @@
-# findOrFail
-LaravelのfindOrFailメソッドについてのまとめ
